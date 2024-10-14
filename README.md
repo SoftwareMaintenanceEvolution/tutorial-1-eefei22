@@ -6,4 +6,4 @@ I expect to learn a lot about modern software maintenance practices and how to w
 - **Course expectations**: To gain hands-on experience in maintaining and evolving software. 
 ![My Image](ss.jpg) 
 ## GitHub Profile
-You can view my personalized GitHub profile [here]([url](https://github.com/eefei22))
+You can view my personalized GitHub profile [here]([url]https://github.com/eefei22)
